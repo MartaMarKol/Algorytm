@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         printHelloWorld();
         giveValue(1);
-        int resultSum = sumNumber(14, 105);
+        int resultSum = sumNumber(15, 10);
         System.out.println(resultSum);
 
         int result = substraction(13, 17);
